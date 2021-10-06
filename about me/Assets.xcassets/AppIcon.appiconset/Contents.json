@@ -1,16 +1,19 @@
 {
   "images" : [
     {
+      "filename" : "131144-cool-grey-polygon-background-design-40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-20@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-29@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
@@ -21,16 +24,19 @@
       "size" : "29x29"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-40@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-40@3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-60@2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -41,16 +47,19 @@
       "size" : "60x60"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-20.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-20@2x.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "131144-cool-grey-polygon-background-design-29.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
